@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017年智能语音应用专题分析"
+title: "【001】2017年智能语音应用专题分析"
 comments: true
 description: "2017年智能语音应用专题分析"
 keywords: "智能语音，人工智能"
