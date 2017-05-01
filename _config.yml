@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "心安，"
-title2: "即是归处" # default: ""
+title: ""
+title2: "一个PM的自我修养" # default: ""
 description: ""
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Acelit Zhang"
   job      : "Product Manager"
-  bio      : "一个PM的自我修养"
+  bio      : ""
   thumb    : /images/author.jpg
   email    : 1649379120@qq.com
   url      : http://iamzx.github.io
