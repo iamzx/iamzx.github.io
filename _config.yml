@@ -2,7 +2,7 @@
 # SEO settings
 title: "心安，"
 title2: "即是归处" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
+description: ""
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
