@@ -20,6 +20,6 @@ permalink: /about/
 本人正在寻求一份互联网**产品经理/助理**的职位，工作地点不限，如有HR哥哥/姐姐对我感兴趣，希望可以进行更加深入的交流 :)
 
 ##### 个人邮箱：*zhangzx-cse@zju.edu.cn*
-##### 欢迎访问我的CSDN博客：*http://blog.csdn.net/acelit*
+##### 欢迎访问我的CSDN博客：[*http://blog.csdn.net/acelit*](http://blog.csdn.net/acelit)
 
 
