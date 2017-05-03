@@ -24,7 +24,18 @@ keywords: "大数据"
 
 7. [DCCI互联网数据中心](http://www.dcci.com.cn/)
 
-8. [Alexa](http://www.alexa.com/)
+8.  [Alexa](http://www.alexa.com/)
 
 9. [大数据导航](http://hao.199it.com/)---好东西，建议大家永久保存
+
+10. [比达咨询数据中心](http://data.cnsoftnews.com/)
+ 
+11. [猎豹全球智库](http://lab.cmcm.com/)
+
+12. [IT桔子-IT互联网公司产品数据库及商业信息服务](https://www.itjuzi.com/)
+
+13. [界面](https://www.jiemian.com/)
+
+14. [中商产业研究院](http://www.askci.com/reports/)
+
 
