@@ -51,7 +51,7 @@ keywords: ""
 
 ----------
 ### 3 产品分析
-![灵犀语音助手](http://img.blog.csdn.net/20170505230506835?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 本人在两个系统上分别下载了Android-5.0.2910和IOS-5.0.1724版本进行体验，下面将从[**用户体验五要素**](http://blog.csdn.net/acelit/article/details/71170310)的角度来分析『灵犀语音助手』这款产品。版本之间的差异很小，有明显不同的地方将特别指出。
 
 
@@ -150,8 +150,11 @@ keywords: ""
 -------
 数据来源：
 [1] [易观：2017智能语音应用专题分析](http://www.199it.com/archives/587495.html)
+
 [2] [灵犀语音助手-百度百科](http://baike.baidu.com/link?url=yT8CrLieY3h7_xU48xT7tyA-88YxZLc1OkONrtUFqLZY-Ea4gxSfupytRoTHbe7Q53Glouc16hTZ2Im9DKwjbVVx_ZnNmdVKAySAPghz2T1b0JLvofS-jb38np1a-IYSvYsgfAuGFtnTExIf9xCfv_)
+
 [3] [蝉大师](https://www.chandashi.com/apps/androidsummary/appId/50445313.html)
+
 [4] [2017年中国互联网络发展状况统计报告（全文）](http://www.cac.gov.cn/2017-01/22/c_1120352022.htm)
 
 ------
