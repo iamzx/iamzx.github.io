@@ -38,4 +38,15 @@ keywords: "大数据"
 
 14. [中商产业研究院](http://www.askci.com/reports/)
 
+16. [数据猿](http://www.datayuan.cn/)
 
+17. [犀牛之星](http://www.ipo3.com/)
+
+18. [水滴数据](http://www.shuidishuju.com/)
+
+19. [ASO100-专业推广移动数据平台](https://aso100.com/)
+      [ASO114-APP推广平台](https://aso114.com/)
+
+20. [移动观象台](http://mi.talkingdata.com/index.html)
+
+21. [极光数据服务](https://www.jiguang.cn/reports)
