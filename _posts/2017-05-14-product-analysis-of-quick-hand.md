@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "【006】 农村包围城市的『快手』"
+title: "【006】农村包围城市的『快手』"
 comments: true
-description: " 农村包围城市的『快手』"
+description: "农村包围城市的『快手』"
 keywords: "快手"
 ---
 ### 0 引子
