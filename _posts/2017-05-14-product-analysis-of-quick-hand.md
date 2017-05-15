@@ -11,7 +11,7 @@ keywords: "快手"
 
 <center>
  ![社交、短视频、直播综合排名](http://img.blog.csdn.net/20170514020558497?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
+</center>
 
 原来小众的不是快手，而是我们。当低调的快手已经占据各大短视频、流量排行榜时，我却全然不知。当我们把所有的目光全都集中在北上广深等一二线城市时，当我们接触的圈子越来越扁平时，我们是不会注意到快手的，更难以理解像快手这样靠自虐、夸张、低俗博得掌声的那群人，农村和城市生活的割裂，让彼此成为完全没有共鸣、没有交集的两个世界。
 
