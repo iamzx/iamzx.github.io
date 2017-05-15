@@ -9,9 +9,8 @@ keywords: "快手"
 
 坦白说，我其实在这周才下载快手，不是别的什么原因，纯粹是因为周末要做产品分享 :D。虽然像“扎心了老铁”、“双击666”、“没毛病”等流行语已经在朋友圈广泛传播，但在我身边这款app还是感觉很小众。直到查询相关的大数据，我已经惊讶地说不出话来。根据猎豹全球智库最新的数据显示：快手已经超越微博成为仅次于微信和QQ的第三大社交、短视频、直播软件。
 
-<center>
+
  ![社交、短视频、直播综合排名](http://img.blog.csdn.net/20170514020558497?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-</center>
 
 原来小众的不是快手，而是我们。当低调的快手已经占据各大短视频、流量排行榜时，我却全然不知。当我们把所有的目光全都集中在北上广深等一二线城市时，当我们接触的圈子越来越扁平时，我们是不会注意到快手的，更难以理解像快手这样靠自虐、夸张、低俗博得掌声的那群人，农村和城市生活的割裂，让彼此成为完全没有共鸣、没有交集的两个世界。
 
@@ -19,7 +18,7 @@ X博士的一篇[《残酷底层物语:一个视频软件的中国农村》](htt
 
 有人说，不了解真正的农村生活是做不好快手的，我本人也是从农村出来的，也经历过竞争激烈的高考、考研，渴望着向更高的阶级晋升，一路走到被称为“人间天堂”的杭州。研究和体验快手这款app真的很有意思，让我想起了小时候一起在泥土地上奔跑的玩伴，让我看到了在故乡生活的那群同样渴望那个被关注的那群人，外表粗犷内心却很质朴。
 
-<center>
+
 ![快手logo](http://img.blog.csdn.net/20170514132803096?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
@@ -30,45 +29,45 @@ X博士的一篇[《残酷底层物语:一个视频软件的中国农村》](htt
 #### 1.1 市场规模
 
 截止2016年12月，我国农村网民占比为27.4%，规模为2.01亿，城镇网民占比72.6%，规模为5.31亿。
-<center>
+
 ![中国网民城乡结构](http://img.blog.csdn.net/20170514003716394?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 网民中具备中等教育程度的群体规模最大，中国网民继续向低学历人群扩散。
-<center>
+
 ![中国网民学历结构](http://img.blog.csdn.net/20170514004046800?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 **短视频不是视频网站的缩小版，而是社交的延续**，成为信息传递的一种方式。一方面，用户通过参与短视频话题，突破了时间、空间、人群的限制，参与线上活动变得简单有趣，使用户更有参与感 ；另一方面，社交媒体为用户的创意和分享欲提供了一个便捷的传播渠道。 **短视频及直播已成为新时代的互联网社交平台和入口之一。** 
 
-<center>
+
 ![短视频发展历史](http://img.blog.csdn.net/20170514021506443?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
  截至2017年2月，主流短视频app的母公司的融资状态处于C轮(包括C轮)以下的有11家，其中8家处于C轮以下，在行业内拥有一定地位和口碑，可能依旧处于亏损状态，资金来源多为风投机构，短视频行业投融资数量持续增长。
  
-<center>
+
 ![短视频行业投融资](http://img.blog.csdn.net/20170514134812546?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 #### 1.2 市场现状
 
 垂直短视频app行业渗透率在过去两个季度稳中有升，行业整体渗透率维持在17%以上。截至2017年1月最后一周，行业渗透率已升至19.3%，平均每五个移动网民中就有接近一个是短视频app的用户。
 
-<center>
+
 ![短视频用户规模及渗透率](http://img.blog.csdn.net/20170514101556956?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 2011年就开始经营短视频业务的快手始终处于市场渗透率业内第一的位置，与此同时，其市场渗透率从去年年初的6.8%上升至13.3%，增幅高达6.5%。快手领先短视频类排名第二的app一个段位，无论是市场渗透率和人均打开次数。
-<center>
+
 ![市场渗透率](http://img.blog.csdn.net/20170514021556896?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-<center>
+
 ![2017第一季度中国短视频类App排行榜](http://img.blog.csdn.net/20170514021930828?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ---------
 ### 2 产品选择
 
 IOS系统下载量：
-<center>
+
 ![IOS系统下载量](http://img.blog.csdn.net/20170514021028113?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 安卓系统下载量：
-<center>
+
 ![安卓系统下载量](http://img.blog.csdn.net/20170514022105487?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
@@ -76,7 +75,7 @@ IOS系统下载量：
 
 快手2013年10月开始从工具型转型为社交型app，产品定位非常明确，与美拍秒拍等着力于牵手明星大V不同，快手的定位更加偏重于二三线城市和农村地区，主要用户群收入中等偏下，且大部分用户无专业制作设备和专业制作技术。 
 
-<center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20170514113221892?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
@@ -100,11 +99,11 @@ IOS系统下载量：
 #### 3.1 用户需求
 
 根据马斯洛需求层次理论，短视频的社交属性满足了用户对于**人际交往**的需求（分享、评论与自我满足 ）；视频短小精炼满足了人们**碎片化阅读**的需要；短视频平台也同时为用户搭建了**信息获取和娱乐消遣**的平台。  
-<center>
+
 ![马斯洛需求层次 ](http://img.blog.csdn.net/20170514003256174?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 短视频应用同时具备工具属性和社交属性，即可以拍摄、编辑视频，也可以分享和观看视频，在各自的社区内进行互动。
-<center>
+
 ![短视频应用的用户需求](http://img.blog.csdn.net/20170514004828374?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
@@ -115,7 +114,7 @@ IOS系统下载量：
 
 从**性别结构**、**年龄结构**、**地域结构**、**收入结构**、**职业结构**和**学历结构** 6个维度来分析快手的用户画像：快手用户性别比例较为均衡；有74%的用户年龄在24岁以下，在年轻用户群体中更受欢迎；小咖秀、秒拍在一线城市分布广泛，中高等收入用户居多，快手用户群体主要集中在二三线城市及农村，中低收入用户居多，学历偏低。这类人群生活节奏慢，没有丰富多彩的娱乐活动，他们的社会关注度低，没有特殊的技能，需要快手这样的舞台来展现自己，获得别人的关注和赞赏。
 
-<center>
+
 ![这里写图片描述](http://img.blog.csdn.net/20170514141730697?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![年龄结构](http://img.blog.csdn.net/20170514111134096?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![地域结构](http://img.blog.csdn.net/20170514111149128?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -131,7 +130,7 @@ IOS系统下载量：
 快手的版本及更新说明永远是：
 > “问题修复、性能提升、优化用户体验”
 
-<center>
+
 ![版本及更新说明](http://img.blog.csdn.net/20170514020852220?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 快手界面几乎没变动，三栏Tab，第一栏关注，第二栏推荐，第三栏同城，双击点赞，下拉看评论。设计极其简洁、克制，操作简单、直接，降低用户学习使用成本。内容以瀑布流的形式显示，按照发布时间排序，无权重，重内容轻达人，提升UGC内容传播曝光机会，吸引用户生产内容。
@@ -142,12 +141,12 @@ IOS系统下载量：
 
 #### 4.2 产品结构
 
-<center>
+
 ![快手产品结构](http://img.blog.csdn.net/20170514145832719?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 #### 4.3 业务流程
-<center>
+
 ![观看视频流程](http://img.blog.csdn.net/20170514151056881?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![录制视频流程](http://img.blog.csdn.net/20170514151800259?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
