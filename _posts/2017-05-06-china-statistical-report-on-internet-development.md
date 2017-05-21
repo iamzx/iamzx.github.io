@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【005】2016中国互联网络发展状况统计报告（摘要）"
+title: "【006】2016中国互联网络发展状况统计报告（摘要）"
 comments: true
 description: "2016中国互联网络发展状况统计报告（摘要）"
 keywords: "中国互联网，统计报告"
