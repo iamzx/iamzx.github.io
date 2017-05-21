@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【008】『拼多多』产品体验报告"
+title: "【010】『拼多多』产品体验报告"
 comments: true
 description: "『拼多多』产品体验报告"
 keywords: "拼多多,产品分析"
