@@ -22,7 +22,7 @@ O2O领域：通过手机相机就可以获取线下商店的详细信息，包�
 
 ![2](http://img.blog.csdn.net/20170602005933374?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-广告定位：
+广告定位和室内导航：
 
 ![3](http://img.blog.csdn.net/20170602005947327?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
