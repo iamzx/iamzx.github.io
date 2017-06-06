@@ -79,6 +79,6 @@ keywords: "智能音箱，语音交互，人工智能"
 
 [1] [远场语音交互体验的思考：Alexa为什么不用屏幕和多轮对话？](http://mp.weixin.qq.com/s/eyxZQB0wxLEXsGDCBMXmuw)
 
-[2] [深度 | 亚马逊 Echo 大获成功，远场语音交互技术在其中究竟扮演了什么角色？](http://mp.weixin.qq.com/s/m6K9m9xvhKAbw1ESLc8n1g)
+[2] [深度|亚马逊 Echo 大获成功，远场语音交互技术在其中究竟扮演了什么角色？](http://mp.weixin.qq.com/s/m6K9m9xvhKAbw1ESLc8n1g)
 
 [3] [亚马逊发布了一款带屏幕的 Echo 设备，这才是智能音箱的最佳形态](http://www.sohu.com/a/139476776_413981)
