@@ -46,7 +46,7 @@ keywords: "BI，商业智能"
 
 ![这里写图片描述](http://img.blog.csdn.net/20170617202703277?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-3、交通出行：通过人工智能+运筹学，最小化路程与出行时间
+**3、交通出行：通过人工智能+运筹学，最小化路程与出行时间**
 路径优化是指如何找到从出发地到达目的地之间最短时间、最优价格的最短路径；订单分配研究的是供需匹配问题，结合多维度影响因素（例如路途距离、路况、骑手骑行速度、需求时间段等）匹配需求和供给；另外，除路径优化与订单分配外，电商领域中提到的定价优化也应用于交通出行，例如网约车定价，但与电商不同的是，网约车因其需求的及时性要求较强，账号共享性弱，使其拥有更大的个性化定价空间。
 
 ![这里写图片描述](http://img.blog.csdn.net/20170617202718324?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
