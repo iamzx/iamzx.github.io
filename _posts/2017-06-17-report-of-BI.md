@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【016】2017中国商业智能行业研究报告"
+title: "【017】2017中国商业智能行业研究报告"
 comments: true
 description: "2017中国商业智能行业研究报告"
 keywords: "BI，商业智能"
