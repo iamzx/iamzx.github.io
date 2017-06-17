@@ -15,24 +15,23 @@ keywords: "BI，商业智能"
 ![这里写图片描述](http://img.blog.csdn.net/20170617202038394?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ### BI与大数据
-1、大数据为BI的发展提供土壤，但需要建立通用的标准。
+**1、大数据为BI的发展提供土壤，但需要建立通用的标准。**
 
 ![这里写图片描述](http://img.blog.csdn.net/20170617202125442?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-2、从数据驱动认知到数据驱动决策
+**2、从数据驱动认知到数据驱动决策**
 
 ![这里写图片描述](http://img.blog.csdn.net/20170617202148658?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-### BI应用场景
-商业智能主要应用于**金融、电商、物流、出行**等领域。AI可以分为赋予机器语音、图像等感知能力的感知智能和赋予机器思考能力的认知、决策智能。**认知能提升感知**（如对语义的理解判断将提升机器的语音识别率），**感知也会辅助决策**（如智慧商超中机器视觉对客流属性、消费行为的观察、记录可辅助商超做出营销决策）。
-
-![这里写图片描述](http://img.blog.csdn.net/20170617202304225?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ### BI商业图谱
 
 ![这里写图片描述](http://img.blog.csdn.net/20170617202333241?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ### BI应用场景
+商业智能主要应用于**金融、电商、物流、出行**等领域。AI可以分为赋予机器语音、图像等感知能力的感知智能和赋予机器思考能力的认知、决策智能。**认知能提升感知**（如对语义的理解判断将提升机器的语音识别率），**感知也会辅助决策**（如智慧商超中机器视觉对客流属性、消费行为的观察、记录可辅助商超做出营销决策）。
+
+![这里写图片描述](http://img.blog.csdn.net/20170617202304225?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 **1、广告营销：精准营销负责引流获客，个性化推荐促活留存**
 商业智能在广告营销领域的主要应用为精准营销与个性化推荐，**两者均通过用户数据，对用户贴标签，并基于产品特征与投放需求，建立不同的决策模型进行营销**；两者最大的不同在于，精准营销用于引流获客阶段，以短信或优惠券的方式进行营销，提升响应率，优化企业运营；**个性化推荐用于留存促活阶段**，使得消费者在最合适的时间，以最恰当的方式，获得最合意的产品、资讯以及服务的推荐。
 
