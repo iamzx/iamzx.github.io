@@ -9,7 +9,7 @@ permalink: /about/
 ##### My major is Control Engineering, and I am extremely enthusiastic about Internet Industry thus I have a  more and more profound understanding in Internet Product in my two and a half years of Master Study Career.
 ##### Now, I am looking for a job or internship of ***Product Manager*** . I hope you can contact with me by email *zhangzx-cse@zju.edu.cn* if you are interested in me.
 
-张志祥，男，1993年出生于美丽的江南小城——安徽安庆，将于**2018年3月**毕业于浙江大学控制工程专业。
+张志祥，男，1993年出生于美丽的江南小城——安徽安庆，将于**2018年6月**毕业于浙江大学控制工程专业。
 
 本人正在寻求一份互联网**产品经理/助理**的职位，工作地点不限，如有HR哥哥/姐姐对我感兴趣，希望可以进行更加深入的交流 :)
 
