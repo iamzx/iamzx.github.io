@@ -14,7 +14,7 @@ keywords: "互联网广告"
 
 互联网广告按照行业主要分为**社交广告、搜索广告和媒体广告**。以国内广告市场为例，主要是腾讯社交产品为代表的社交广告、百度搜索为代表的搜索广告以及今日头条资讯为代表的媒体广告。社交产品包括QQ、微信、陌陌、微博、网易邮箱等，搜索除了百度还有360搜索、搜狗搜索、神马搜索等，媒体类就更为广泛了，包括传统的新闻资讯、在线视频，到现在非常火热的短视频、直播等。当然，一些工具类产品拥有巨大的用户和流量也可以靠广告盈利，比如WiFi万能钥匙和美图秀秀。而纵观全球，Google和Facebook分别占据搜索广告和社交广告的核心位置。
 
-<div align=center><img width="150" height="100" src="http://img.blog.csdn.net/20170909011511893?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
+<div align=center><img src="http://img.blog.csdn.net/20170909011511893?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 ### 2、广告计费方式
 - **CPA广告**
