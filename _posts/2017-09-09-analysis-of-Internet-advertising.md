@@ -49,58 +49,57 @@ CPE（每参与成本，Cost Per Engagement）旨在评估用户与品牌之间�
 
 - 交互式广告
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012048614?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012048614?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **2、图标广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012119440?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012119440?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **3、游动浮标**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012152868?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012152868?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **4、文字链接**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012219908?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012219908?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **5、关键字广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012241808?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012241808?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **6、插播式广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012323280?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012323280?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **7、巨幅广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012346218?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012346218?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **8、电子邮件广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012521139?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012521139?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **9、信息流广告**
 
 如今的信息流广告不再局限于简单的图文形式，而是通过照片、视频、轮播、幻灯片等多种形式展现，更有借助360度视频播放器的全景广告。广告可精准捕捉用户意向，有效降低用户干扰，且具有良好的互动性和分享性。
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012602591?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012602591?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012609333?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012609333?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **10、开屏广告**
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012644636?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012644636?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 **11、其他-**视频观看前、暂停时，分享时
 
-![这里写图片描述](http://img.blog.csdn.net/20170909012729726?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-![这里写图片描述](http://img.blog.csdn.net/20170909012737381?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012729726?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
+<div align=center><img src="http://img.blog.csdn.net/20170909012737381?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 ### 4、典型互联网公司广告形式
 #### 4.1 腾讯
 腾讯有一半的收入来源于游戏，可以算是一家游戏公司，但拥有QQ和微信两大航母级社交产品让腾讯同样可以依靠社交广告赚钱。腾讯网络广告分为**效果广告和品牌广告**，效果广告收入增速领先。效果广告以取得用户互动为目的，收费模式一般为CPC、CPM和CPA，信息流广告大多属于此；品牌广告以反复播放建立品牌知名度为目的，收费模式有CPM和CPD。
-
-![这里写图片描述](http://img.blog.csdn.net/20170909012904309?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909012904309?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 效果广告vs品牌广告
 **品牌广告的目的是建立品牌知名度；效果广告的目的是促进销售（或其他消费者行动）。**
@@ -109,13 +108,11 @@ CPE（每参与成本，Cost Per Engagement）旨在评估用户与品牌之间�
 今日头条的广告体系包括开屏广告、信息流广告、详情页广告和开屏联播等。今日头条的高用户粘性和强大的算法下的**精准广告投放**，使得其平台对广告主极具吸引力。同时，今日头条作为一个资讯平台，各条资讯之间的独立性高，且用户在该情境下对信息流广告的容忍度也更高，因此头条可在平台上投放更多广告。
 今日头条为促进广告的投放，推出了不同的结算方式来更好地满足广告主的需求。头条在2017年5月推出CPA（Cost per Action）的收费模式，无转化不收费，进一步保障了中小广告主的权益。
 今日头条同样看到了短视频及短视频广告的增长潜力，积极布局短视频，大力扶植原创内容，形成了以PGC和PUGC为核心的短视频分发体系。
-
-![这里写图片描述](http://img.blog.csdn.net/20170909013021504?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909013021504?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 今日头条的信条是让广告成为一条有用的资讯。**内容营销是未来趋势**，而短视频是极佳的内容承载方式。今日头条为短视频营销提供一站式服务，打造从内容生产到分发、到消费的全服务链条，未来在短视频信息流广告领域增长潜力巨大。
 内容生产：推出一款傻瓜式的视频制作工具APP，面向所有广告主免费开放，可一键生成视频广告；分发与消费：头条号大V帮广告主制作广告和投放；将视频广告插入头条号文章，推送给数亿用户。
-
-![这里写图片描述](http://img.blog.csdn.net/20170909013054227?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909013054227?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 #### 4.3 百度
 百度截至2016年，在线营销业务收入占到主营业务收入的90%以上，完全可以称之为一家广告公司了。百度的信息流广告形式包括穿插在百度首页、百度浏览器和百度贴吧的原生广告，主要以图片或视频的形式呈现，计费方式有CPC、CPT和CPM。
@@ -124,14 +121,12 @@ CPE（每参与成本，Cost Per Engagement）旨在评估用户与品牌之间�
 
 #### 4.4 微博
 微博以构建社交关系为基础，通过广告、会员、数据授权和游戏等获得收入。广告收入在微博的收入体系中占据着越来越重要的地位，其占营收的比重从2012年的77.4%增加到了2016年的87.1%。
-
-![这里写图片描述](http://img.blog.csdn.net/20170909013138905?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909013138905?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 微博的广告收入增长迅速，CAGR高达82.9%。自2013年引入信息流广告以来，该部分收入增长迅速。截至2016年Q2，微博信息流广告收入占整体广告收入的50%以上，而展示广告的比例则缩小至30%。
  微博是一个以内容生产者为中心的社交平台，其沉淀的社交关系帮助信息流实现了从纯时间流到关系流再到兴趣流的转变，而基于兴趣的信息流广告更能切中用户的痛点，取得更好的广告效果。
 以秒拍主打的短视频助力微博信息流广告增长。
-
-![这里写图片描述](http://img.blog.csdn.net/20170909013207332?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<div align=center><img src="http://img.blog.csdn.net/20170909013207332?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/></div>
 
 ---
 ref：
