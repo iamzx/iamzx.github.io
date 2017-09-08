@@ -40,12 +40,15 @@ CPE（每参与成本，Cost Per Engagement）旨在评估用户与品牌之间�
 **1、Banner**：可分为静态Banner、动态Banner、交互式广告
 
 - 静态网幅广告
+
 ![这里写图片描述](http://img.blog.csdn.net/20170909011958314?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 - 动态网幅广告
+
 ![这里写图片描述](http://img.blog.csdn.net/20170909012035123?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 - 交互式广告
+
 ![这里写图片描述](http://img.blog.csdn.net/20170909012048614?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWNlbGl0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 **2、图标广告**
